@@ -1,0 +1,9 @@
+.botAvatar {
+  width: 55px;
+  height: 45px;
+  border: 1px solid black;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
